@@ -47,49 +47,33 @@
 
 ## 🚀 Featured Projects
 
-### 🌱 [PlantHub](https://github.com/tamu-capstone-gardener)
+### 🌱 [PlantHub](https://github.com/tamu-capstone-gardener) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" height="20" title="Ruby on Rails" alt="Ruby on Rails" />](https://rubyonrails.org/) [<img src="https://cdn.simpleicons.org/postgresql" height="20" title="PostgreSQL" alt="PostgreSQL" />](https://www.postgresql.org/) [<img src="https://cdn.simpleicons.org/mqtt" height="20" title="MQTT" alt="MQTT" />](https://mqtt.org/) [<img src="https://cdn.simpleicons.org/espressif" height="20" title="ESP32" alt="ESP32" />](https://www.espressif.com/en/products/socs/esp32)
 #### Automated gardening system with IoT monitoring and control
 - Real-time data transmission via MQTT from ESP32
 - Location-based plant recommendations
 - Automated workflows based on sensor data
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" height="20" title="Ruby on Rails" alt="Ruby on Rails" />](https://rubyonrails.org/)
-[<img src="https://cdn.simpleicons.org/postgresql" height="20" title="PostgreSQL" alt="PostgreSQL" />](https://www.postgresql.org/)
-[<img src="https://cdn.simpleicons.org/mqtt" height="20" title="MQTT" alt="MQTT" />](https://mqtt.org/)
-[<img src="https://cdn.simpleicons.org/espressif" height="20" title="ESP32" alt="ESP32" />](https://www.espressif.com/en/products/socs/esp32)
 
-### 🗳️ [Polis](https://github.com/caden-miller/polis)
+
+### 🗳️ [Polis](https://github.com/caden-miller/polis) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" height="20" title="Ruby on Rails" alt="Ruby on Rails" />](https://rubyonrails.org/) [<img src="https://cdn.simpleicons.org/postgresql" height="20" title="PostgreSQL" alt="PostgreSQL" />](https://www.postgresql.org/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" height="20" title="Heroku" alt="Heroku" />](https://www.heroku.com/)
 #### Social media platform for political deliberation
 - Based on Habermas' theories of deliberative democracy
 - Deployed with CI/CD pipeline to Heroku
 - Structured discourse features
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" height="20" title="Ruby on Rails" alt="Ruby on Rails" />](https://rubyonrails.org/)
-[<img src="https://cdn.simpleicons.org/postgresql" height="20" title="PostgreSQL" alt="PostgreSQL" />](https://www.postgresql.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" height="20" title="Heroku" alt="Heroku" />](https://www.heroku.com/)
-
-
-### ❤️ [Pulseduino](https://github.com/caden-miller/pulseduino)
+### ❤️ [Pulseduino](https://github.com/caden-miller/pulseduino) [<img src="https://cdn.simpleicons.org/arduino" height="20" title="Arduino" alt="Arduino" />](https://www.arduino.cc/) [<img src="https://cdn.simpleicons.org/react" height="20" title="React Native" alt="React Native" />](https://reactnative.dev/) [<img src="https://cdn.simpleicons.org/typescript" height="20" title="TypeScript" alt="TypeScript" />](https://www.typescriptlang.org/) [<img src="https://cdn.simpleicons.org/bluetooth" height="20" title="Bluetooth Low Energy" alt="BLE" />](https://www.bluetooth.com/)
 #### Wearable pulse detection device with mobile app
 - Custom PCB design and 3D printed housing
 - Bluetooth connectivity for remote monitoring
 - MAX30102 sensor integration
 
-[<img src="https://cdn.simpleicons.org/arduino" height="20" title="Arduino" alt="Arduino" />](https://www.arduino.cc/)
-[<img src="https://cdn.simpleicons.org/react" height="20" title="React Native" alt="React Native" />](https://reactnative.dev/)
-[<img src="https://cdn.simpleicons.org/typescript" height="20" title="TypeScript" alt="TypeScript" />](https://www.typescriptlang.org/)
-[<img src="https://cdn.simpleicons.org/bluetooth" height="20" title="Bluetooth Low Energy" alt="BLE" />](https://www.bluetooth.com/)
-
-### 💻 [SimulARM](https://github.com/caden-miller/simulARM)
+### 💻 [SimulARM](https://github.com/caden-miller/simulARM) [<img src="https://cdn.simpleicons.org/arm" height="20" title="ARM" alt="ARM" />](https://www.arm.com/) [<img src="https://raw.githubusercontent.com/caden-miller/caden-miller/main/verilog-icon.svg" height="20" title="Verilog" alt="Verilog" />](https://www.verilog.com/) [<img src="https://cdn.simpleicons.org/cplusplus" height="20" title="C++" alt="C++" />](https://en.cppreference.com/w/cpp) [<img src="https://cdn.simpleicons.org/react" height="20" title="React" alt="React" />](https://react.dev/)
 #### ARMv8 hardware and command simulator
 - Interactive GUI for debugging and learning
 - Register monitoring and visualization
 - Hardware simulation in Verilog
 
-[<img src="https://cdn.simpleicons.org/arm" height="20" title="ARM" alt="ARM" />](https://www.arm.com/)
-[<img src="https://raw.githubusercontent.com/caden-miller/caden-miller/main/verilog-icon.svg" height="20" title="Verilog" alt="Verilog" />](https://www.verilog.com/)
-[<img src="https://cdn.simpleicons.org/cplusplus" height="20" title="C++" alt="C++" />](https://en.cppreference.com/w/cpp)
-[<img src="https://cdn.simpleicons.org/react" height="20" title="React" alt="React" />](https://react.dev/)
+---
 
 ## 📫 Get In Touch
 
