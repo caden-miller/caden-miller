@@ -4,13 +4,13 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Engineering grad from Texas A&M University with a minor in Mathematics
-
 🔭 Currently working on **remaking OpenClaw** for Claude Code, Gmail, stock scraping, and more 
 
 🌱 Passionate about IoT, automation, and bridging technology with sustainable agriculture
 
 💡 Love building tools that solve real-world problems
+
+🎓 Computer Engineering grad from Texas A&M University with a minor in Mathematics
 
 ---
 
@@ -53,7 +53,10 @@ Automated gardening system with IoT monitoring and control
 - Location-based plant recommendations
 - Automated workflows based on sensor data
 
-**Tech:** Ruby on Rails • PostgreSQL • MQTT • ESP32
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" height="14" title="Ruby on Rails" alt="Ruby on Rails" />](https://rubyonrails.org/)
+[<img src="https://cdn.simpleicons.org/postgresql" height="14" title="PostgreSQL" alt="PostgreSQL" />](https://www.postgresql.org/)
+[<img src="https://cdn.simpleicons.org/mqtt" height="14" title="MQTT" alt="MQTT" />](https://mqtt.org/)
+<img src="https://cdn.simpleicons.org/espressif" height="14" title="ESP32" alt="ESP32" />
 
 ### 🗳️ [Polis](https://github.com/caden-miller/polis)
 Social media platform for political deliberation
@@ -61,7 +64,10 @@ Social media platform for political deliberation
 - Deployed with CI/CD pipeline to Heroku
 - Structured discourse features
 
-**Tech:** Ruby on Rails • PostgreSQL • Heroku
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" height="14" title="Ruby on Rails" alt="Ruby on Rails" />](https://rubyonrails.org/)
+[<img src="https://cdn.simpleicons.org/postgresql" height="14" title="PostgreSQL" alt="PostgreSQL" />](https://www.postgresql.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" height="14" title="Heroku" alt="Heroku" />](https://www.heroku.com/)
+
 
 ### ❤️ [Pulseduino](https://github.com/caden-miller/pulseduino)
 Wearable pulse detection device with mobile app
@@ -69,7 +75,10 @@ Wearable pulse detection device with mobile app
 - Bluetooth connectivity for remote monitoring
 - MAX30102 sensor integration
 
-**Tech:** Arduino • React Native • TypeScript • BLE
+[<img src="https://cdn.simpleicons.org/arduino" height="14" title="Arduino" alt="Arduino" />](https://www.arduino.cc/)
+[<img src="https://cdn.simpleicons.org/react" height="14" title="React Native" alt="React Native" />](https://reactnative.dev/)
+[<img src="https://cdn.simpleicons.org/typescript" height="14" title="TypeScript" alt="TypeScript" />](https://www.typescriptlang.org/)
+[<img src="https://cdn.simpleicons.org/bluetooth" height="14" title="Bluetooth Low Energy" alt="BLE" />](https://www.bluetooth.com/)
 
 ### 💻 [SimulARM](https://github.com/caden-miller/simulARM)
 ARMv8 hardware and command simulator
@@ -77,21 +86,10 @@ ARMv8 hardware and command simulator
 - Register monitoring and visualization
 - Hardware simulation in Verilog
 
-**Tech:** Verilog • C++ • React
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caden-miller&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caden-miller&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
+[<img src="https://cdn.simpleicons.org/arm" height="14" title="ARM" alt="ARM" />](https://www.arm.com/)
+[<img src="https://raw.githubusercontent.com/caden-miller/caden-miller/main/verilog-icon.svg" height="14" title="Verilog" alt="Verilog" />](https://www.verilog.com/)
+[<img src="https://cdn.simpleicons.org/cplusplus" height="14" title="C++" alt="C++" />](https://en.cppreference.com/w/cpp)
+[<img src="https://cdn.simpleicons.org/react" height="14" title="React" alt="React" />](https://react.dev/)
 
 ## 📫 Get In Touch
 
