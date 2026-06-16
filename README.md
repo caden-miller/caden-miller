@@ -2,18 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Caden+Miller+%F0%9F%91%8B;Computer+Engineering+Graduate;Full+Stack+Developer;IoT+%26+Automation+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 About Me
-
-🔭 Currently working on **remaking OpenClaw** for Claude Code, Gmail, stock scraping, and more 
-
-🌱 Passionate about IoT, automation, and bridging technology with sustainable agriculture
-
-💡 Love building tools that solve real-world problems
-
-🎓 Computer Engineering grad from Texas A&M University with a minor in Mathematics
-
----
-
 ## 🛠️ Languages & Tools
 
 ### Languages
